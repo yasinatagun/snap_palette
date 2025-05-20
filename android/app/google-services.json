@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052420111974",
+    "project_id": "snap-palette",
+    "storage_bucket": "snap-palette.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052420111974:android:c3f69f87698793de2d37a7",
+        "android_client_info": {
+          "package_name": "com.codentro.snap_palette"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7tXpuQ8JIr5mrQuEcBuVPhj33NCZBb60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
